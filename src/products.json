@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Sorrentinos de ricotta y nuez",
+    "description": "Relleno de ricotta condimentada (sal, pimienta) y nuez",
+    "price": 1000,
+    "code": "SRN01",
+    "stock": 20,
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "title": "Sorrentinos de pollo",
+    "description": "Relleno de pollo fresco, cebolla rehogada, queso, crema de leche, sal y pimienta.",
+    "price": 1200,
+    "code": "SDP01",
+    "stock": 10,
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "title": "Sorrentinos de centolla",
+    "description": "Relleno de centolla fueguina precocida, cebolla de verdeo, queso reggeanito, queso crema y pimienta negra.",
+    "price": 3000,
+    "code": "SDC01",
+    "stock": 12,
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "status": true,
+    "title": "Ravioles de verdura",
+    "description": "Relleno de espinaca, cebolla rehogada, queso crema, queso rallado, ricota, pimienta y sal.",
+    "price": 1700,
+    "code": "RDV01",
+    "stock": 18,
+    "thumbnails": []
+  },
+  {
+    "status": true,
+    "title": "Sorrentinos de salmón",  
+    "description": "Salmon fueguino cocido al horno, cebolla de verdeo, sal, pimienta.",
+    "price": 2500,
+    "code": "SDS01",
+    "stock": 10,
+    "thumbnails": []
+  },
+  {
+    "title": "Ravioles de jamón y queso",
+    "description": "Jamón, queso, cebolla de verdeo, pimienta y ricota a eleccion.",
+    "price": 1700,
+    "code": "RJYQ01",
+    "stock": 15,
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "title": "Variedad de masas",
+    "description": "Masa de huevo, espinaca, remolacha. * Disponible para sorrentinos de ricotta y nuez y sorrentinos de pollo",
+    "price": 2000,
+    "code": "VDM01",
+    "stock": 8,
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "title": "Pizza de centolla",
+    "description": "Centolla fueguina precocida, cebolla de verdeo, queso y queso azul.",
+    "price": 2300,
+    "code": "PDC01",
+    "stock": 5,
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "title": "Pan casero",
+    "description": "Pan casero artesanal",
+    "price": 300,
+    "code": "PNC01",
+    "stock": 20,
+    "status": true,
+    "thumbnails": []
+  }
+]
